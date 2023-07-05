@@ -1,0 +1,14 @@
+{
+    "timeZone": "America/New_York",
+    "dependencies": {
+    },
+    "exceptionLogging": "STACKDRIVER",
+    "runtimeVersion": "V8",
+    "sheets": {
+      "macros": [{
+        "menuName": "Add/Remove Based On Selection",
+        "functionName": "addOrRemove",
+        "defaultShortcut": "Ctrl+Alt+Shift+1"
+      }]
+    }
+  }
